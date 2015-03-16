@@ -182,7 +182,7 @@ gulp.task('sass', function () {
           precision : 10,
         }))
         .pipe(autoprefixer({
-            browsers: ['last 2 versions','ie 9']
+            browsers: ['last 2 versions','ie 8']
         }))
         .pipe(gulp.dest(paths.dev.css.directory));
 });

@@ -37,7 +37,7 @@ module.exports = {
       'public/styles/images/**'
     ],
     config : [
-      'public/config.js',
+      'public/bootstrap.js',
       'public/application.js'
     ],
     tests : [
