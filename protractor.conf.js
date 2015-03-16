@@ -3,7 +3,7 @@ exports.config = {
   seleniumAddress: 'http://localhost:4444/wd/hub',
   specs: ['./public/modules/e2etests/**/*spec.js'],
   suites: {
-    login: './public/modules/e2etests/page-tests/login-page/**/*.spec.js'
+    home: './public/modules/e2etests/page-tests/home-page/**/*.spec.js'
 
   },
   capabilities: {
