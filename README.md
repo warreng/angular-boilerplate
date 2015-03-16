@@ -4,6 +4,8 @@ An angularjs boilerplate which uses many of the best practices widely recognised
 
 This boilerplate employs a modular structure that is divided by feature, encouraging an uncoupled and reusable practice.
 
+## Installation
+Simply git clone this repo. cd into the angular-boilerplate root directory and run npm install
 
 ## Features:
 
