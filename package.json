@@ -1,12 +1,10 @@
 {
-  "name": "Ostmodern-Angularjs-Boilerplate",
-  "description": "Ostmodern Angularjs boilerplate for use with a backend",
+  "name": "Angularjs-Boilerplate",
+  "description": "Angularjs boilerplate for use with a backend",
   "version": "0.0.1",
   "private": true,
-  "author": "https://github.com/ostmodern/angular-boilerplate/graphs/contributors",
   "repository": {
-    "type": "git",
-    "url": "https://github.com:ostmodern/angular-boilerplate.git"
+    "type": "git"
   },
   "scripts": {
     "start": "gulp",
